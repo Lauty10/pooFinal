@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1725402191 source:c:\users\lauty\onedrive\escritorio\c++\ejerciciofinalobjetos\funcionalidades.cpp
+	<iostream>
+	"Paginah.h"
+
+1725402191 c:\users\lauty\onedrive\escritorio\c++\ejerciciofinalobjetos\paginah.h
+	<string>
+
+1725401594 source:c:\users\lauty\onedrive\escritorio\c++\ejerciciofinalobjetos\main.cpp
+	<iostream>
+	"Paginah.h"
+
